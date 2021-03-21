@@ -1,5 +1,8 @@
 # KoKoaTalk_CloneCoding
 
+https://joraeng.github.io/KoKoaTalk_CloneCoding/
+
+
 HTML & CSS 연습을 위한 클론코딩 강의 실습 코드
 
 개정 이전 강의는 모든 html 페이지를 만든 다음 모든 ccs를 다루지만 이번에는 다르게,
