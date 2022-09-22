@@ -1,6 +1,6 @@
 # KoKoaTalk_CloneCoding
 
-https://joraeng.github.io/kakao_talk-clone_coding-only_html/
+https://meoraeng.github.io/kakao_talk-clone_coding-only_html/
 
 
 HTML & CSS 연습을 위한 클론코딩 강의 실습 코드
